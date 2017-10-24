@@ -1,0 +1,9 @@
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe.config
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.pdb
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.pdb
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll.config
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.exe
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.pdb

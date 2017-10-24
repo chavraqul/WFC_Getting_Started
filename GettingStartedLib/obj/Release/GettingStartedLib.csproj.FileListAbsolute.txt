@@ -1,0 +1,6 @@
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.dll.config
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.dll
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.pdb
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.dll
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.pdb
+C:\CodeLab\Visual_Studio\Projects\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.csprojResolveAssemblyReference.cache
